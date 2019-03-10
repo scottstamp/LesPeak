@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace LesPeak
 {
-    public partial class Form1 : Form
+    public partial class Log : Form
     {
-        public Form1()
+        public Log()
         {
             InitializeComponent();
         }
